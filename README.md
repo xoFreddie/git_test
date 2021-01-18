@@ -1,0 +1,1 @@
+This is Freddie's first git project!
